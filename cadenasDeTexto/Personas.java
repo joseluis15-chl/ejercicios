@@ -1,5 +1,6 @@
 package cadenasDeTexto;
-
+///////////////////////////////////
+//Se debe ejecutar en la rama inicial sino no va a jalar
 // Crear clase Personas
 public class Personas {
 
