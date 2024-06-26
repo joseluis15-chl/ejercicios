@@ -23,7 +23,7 @@ public class Personas {
     // Métodos y/o Acciones
     public void saludar() {
         System.out.println("Hola banda soy: " + nombre + " de " + edad + " años, mi cuenta es " + cuenta +
-                ", tengo un " + automovil + " y mi hobby es " + hobby + ".");
+                ", tengo un super auto de marca " + automovil + " y mi hobby es lo mejor del mundo denominado " + hobby + ".");
     }
 
     // Métodos getter de los atributos
